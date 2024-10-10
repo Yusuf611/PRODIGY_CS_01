@@ -10,7 +10,7 @@ This is a simple Python program that demonstrates the Caesar Cipher, a type of s
 - Interactive and user-friendly interface.
 
 ## Prerequisites
-This program requires Python to be installed on your system. Additionally, it makes use of the `colorama` library for colored terminal output. You can install `colorama` using the following command:
+This program requires Python to be installed on your system. Additionally, it makes use of the `colorama` library for colored terminal output.
 
 How to Use
 Clone the repository:
@@ -35,5 +35,7 @@ Follow the on-screen instructions to either encrypt or decrypt a message.
 Program Options
 
 Encrypt a message: Allows you to input a message and a shift value, and outputs the encrypted message.
+
 Decrypt a message: Allows you to input an encrypted message and the shift value used for encryption, and outputs the original message.
+
 Exit: Ends the program.
